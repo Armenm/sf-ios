@@ -1,4 +1,5 @@
 ![screenshot](https://github.com/gravicle/sf-ios/blob/master/screenshots.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FArmenm%2Fsf-ios.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FArmenm%2Fsf-ios?ref=badge_shield)
 
 # sf-ios
 An app for #sf-coffee and #sf-beer events from the iOS Folks Slack.
@@ -24,3 +25,7 @@ The app fetches data from [CoffeeCoffeeCoffee](http://coffeecoffeecoffee.coffee)
 We use [Bitrise](https://app.bitrise.io/referral/558bfe07e92b5498) for CI. If you'd like to help with that or learn more please use the link for referral goodies.
 
 [![Build Status](https://app.bitrise.io/app/3cef125d856baef9/status.svg?token=OgCXUkVmOo5Sbl4dMSVXVA&branch=master)](https://app.bitrise.io/app/3cef125d856baef9)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FArmenm%2Fsf-ios.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FArmenm%2Fsf-ios?ref=badge_large)
